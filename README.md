@@ -1,4 +1,4 @@
-# ProtForge
+# Protein Mutation Scan
 
 A SLURM-orchestrated pipeline for protein mutation scanning on the Kempner cluster.
 Given a table of amino-acid mutations and a reference sequence, ProtForge generates
